@@ -1,0 +1,19 @@
+{
+  "name": "opencollabbot",
+  "version": "0.0.1",
+  "description": "A Discord bot that lets you control VM(s) through SSH.",
+  "main": "collabbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computernewb/opencollabbot.git"
+  },
+  "author": "Dartz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/computernewb/opencollabbot/issues"
+  },
+  "homepage": "https://github.com/computernewb/opencollabbot#readme"
+}

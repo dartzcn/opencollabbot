@@ -20,5 +20,8 @@
     "discord.js": "github:discordjs/discord.js",
     "klasa": "github:dirigeants/klasa",
     "node-ssh": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2"
   }
 }

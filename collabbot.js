@@ -5,5 +5,5 @@ new Client({
     prefix: '+',
     commandEditing: true,
     typing: true,
-    readyMessage: (client) => `Successfully initialized. Ready to serve ${client.guilds.size} guilds.`
+    readyMessage: (client) => 'OpenCollabBot has started successfully!'
 }).login('your-bot-token');

@@ -18,6 +18,7 @@
   "homepage": "https://github.com/computernewb/opencollabbot#readme",
   "dependencies": {
     "discord.js": "github:discordjs/discord.js",
-    "klasa": "github:dirigeants/klasa"
+    "klasa": "github:dirigeants/klasa",
+    "node-ssh": "^6.0.0"
   }
 }
